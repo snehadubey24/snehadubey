@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Twitter: wolfware_24](https://img.shields.io/twiteer/follow/snehadubey-blue?style=social)](https://twitter.com/wolfware_24)
+[![Twitter: snehadubey](https://img.shields.io/twitter/follow/snehadubey-blue?style=social)](https://twitter.com/wolfware_24)
 [![Linkedin: snehadubey](https://img.shields.io/badge/snehadubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sneha-dubey-2404/)](https://www.linkedin.com/in/snehadubey/)
 [![GitHub snehadubey](https://img.shields.io/github/followers/snehadubey24?label=follow&style=social)](https://github.com/snehadubey24)
 [![website](https://img.shields.io/badge/devilphotography-snehadubey.github.io-2648ff?style=flat-square&logo=google-chrome)](https://snehadubey.github.io/)
@@ -27,7 +27,7 @@
 <a href="https://twitter.com/snehadubey">
   <img  alt="Sneha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/snehadubey/">
+<a href="https://www.linkedin.com/in/sneha-dubey-2404/">
   <img  alt="Sneha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/snehadubey24">
