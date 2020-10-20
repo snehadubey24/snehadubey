@@ -31,10 +31,12 @@
 <a href="https://github.com/snehadubey24">
   <img alt="Swapnal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://t.me/swapnalshahil">
+<a href="https://t.me/snehadubey">
   <img  alt="Sneha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/sdubey_2404/">
+  <img  alt="Sneha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/sdubey.1/">
   <img  alt="Sneha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
