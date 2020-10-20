@@ -7,9 +7,11 @@
 
 <br/>
 
-[![instagram: wolfware_24](https://img.shields.io/instagram/follow/wolfware_24?style=social)](https://instagram.com/wolfware_24)
+[![twitter: wolfware_24](https://img.shields.io/twiteer/follow/wolfware_24?style=social)](https://twitter.com/wolfware_24)
 [![Linkedin: snehadubey](https://img.shields.io/badge/-snehadubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snehadubey/)](https://www.linkedin.com/in/snehadubey/)
 [![GitHub snehadubey](https://img.shields.io/github/followers/snehadubey?label=follow&style=social)](https://github.com/snehadubey24)
+[![website](https://img.shields.io/badge/devilphotography-snehadubey.github.io-2648ff?style=flat-square&logo=google-chrome)](https://snehadubey.github.io/)
+
 
 
 <a href="https://github.com/snehadubey24">
