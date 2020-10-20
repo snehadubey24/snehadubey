@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Twitter: sneha dubey](https://img.shields.io/twitter/follow/snehadubey-blue?style=social)](https://twitter.com/wolfware_24)
+[![Twitter: sneha dubey](https://img.shields.io/twitter/follow/wolfware_24?style=social)](https://twitter.com/wolfware_24)
 [![Linkedin: snehadubey](https://img.shields.io/badge/snehadubey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sneha-dubey-2404/)](https://www.linkedin.com/in/snehadubey/)
 [![GitHub snehadubey](https://img.shields.io/github/followers/snehadubey24?label=follow&style=social)](https://github.com/snehadubey24)
 [![website](https://img.shields.io/badge/devilphotography-snehadubey.github.io-2648ff?style=flat-square&logo=google-chrome)](https://snehadubey.github.io/)
