@@ -39,7 +39,7 @@
 <a href="https://instagram.com/wolfware_24/">
   <img  alt="Sneha's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/Sneha dubey(Devil)/">
+<a href="https://www.facebook.com/snehadubey2404/">
   <img  alt="Sneha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </div>
