@@ -33,7 +33,7 @@
 <a href="https://github.com/snehadubey24">
   <img alt="Sneha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://t.me/snehadubey">
+<a href="https://t.me/Losangles24">
   <img  alt="Sneha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/wolfware_24/">
