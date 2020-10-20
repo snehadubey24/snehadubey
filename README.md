@@ -22,8 +22,8 @@
 <br/>
 <br/>
 <div align="center">
-<a href="https://instagram.com/wolfware_24">
-  <img  alt="Sneha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://twitter.com/wolfware_24">
+  <img  alt="Sneha's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/snehadubey/">
   <img  alt="Sneha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -37,7 +37,7 @@
 <a href="https://instagram.com/wolfware_24/">
   <img  alt="Sneha's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/snehadubey157/">
+<a href="https://www.facebook.com/snehadubey/">
   <img  alt="Sneha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </div>
