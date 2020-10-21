@@ -24,7 +24,7 @@
 <br/>
 <br/>
 <div align="center">
-<a href="https://twitter.com/snehadubey">
+<a href="https://twitter.com/wolfware_24">
   <img  alt="Sneha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sneha-dubey-2404/">
