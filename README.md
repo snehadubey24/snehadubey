@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=snehadubey24 alt=snehadubey24/></p>
 
-### Wanna stalk me :question::point_right: [Click Here](https://snehadubey24.github.io/)
+### Wanna stalk me :question::point_right: [Click Here](https://github.com/snehadubey24/snehadubey.github.io.git)
 
 
 <br/>
